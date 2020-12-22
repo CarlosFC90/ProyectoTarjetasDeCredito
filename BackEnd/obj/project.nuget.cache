@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Og0DjoHIzlRQF0ew8h4AW3jai6Hc4LultBHfcK+EaXz3lGocRnvk843tYUIFxf/qRAOS2tipFAvPU1XduPh2Q==",
+  "dgSpecHash": "+oC9gzBZtHro1BfrFd2sTZrZzCjT9WZVw5PoJQXNNZruo6qelX/mfy8rYw7Iby1Hj/hoVT5H1/SUfCtfQwmvrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thebl\\Desktop\\ProyectoTarjetas deCredito\\BackEnd\\BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\thebl\\Desktop\\Proyectos\\ProyectoTarjetas deCredito\\BackEnd\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thebl\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\thebl\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

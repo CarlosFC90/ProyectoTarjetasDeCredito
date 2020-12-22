@@ -1,4 +1,10 @@
 <table class="table table-sm">
+    <tr>
+        <th>Nombre Usuario</th>
+        <th>Num. Tarjeta</th>
+        <th>Fecha Exp.</th>
+        <th style="text-align: center;">Opciones</th>
+    </tr>
     <tr *ngFor="let tarjeta of tarjetaService.list">
         <td>{{ tarjeta.titular }}</td>
         <td>{{ tarjeta.numeroTarjeta }}</td>

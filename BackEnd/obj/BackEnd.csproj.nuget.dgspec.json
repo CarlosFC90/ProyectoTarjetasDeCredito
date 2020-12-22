@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thebl\\Desktop\\ProyectoTarjetas deCredito\\BackEnd\\BackEnd.csproj": {}
+    "C:\\Users\\thebl\\Desktop\\Proyectos\\ProyectoTarjetas deCredito\\BackEnd\\BackEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thebl\\Desktop\\ProyectoTarjetas deCredito\\BackEnd\\BackEnd.csproj": {
+    "C:\\Users\\thebl\\Desktop\\Proyectos\\ProyectoTarjetas deCredito\\BackEnd\\BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thebl\\Desktop\\ProyectoTarjetas deCredito\\BackEnd\\BackEnd.csproj",
+        "projectUniqueName": "C:\\Users\\thebl\\Desktop\\Proyectos\\ProyectoTarjetas deCredito\\BackEnd\\BackEnd.csproj",
         "projectName": "BackEnd",
-        "projectPath": "C:\\Users\\thebl\\Desktop\\ProyectoTarjetas deCredito\\BackEnd\\BackEnd.csproj",
+        "projectPath": "C:\\Users\\thebl\\Desktop\\Proyectos\\ProyectoTarjetas deCredito\\BackEnd\\BackEnd.csproj",
         "packagesPath": "C:\\Users\\thebl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thebl\\Desktop\\ProyectoTarjetas deCredito\\BackEnd\\obj\\",
+        "outputPath": "C:\\Users\\thebl\\Desktop\\Proyectos\\ProyectoTarjetas deCredito\\BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
